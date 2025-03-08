@@ -6,6 +6,11 @@ The MATLAB & Simulink programs are provided in this repository to repoduce the t
 ## Program Environment
 MATLAB R2024a
 
+## Deploy these Programs in Local Environment
+1. Download the entire repository as a **ZIP** file and place all program files in a local MATLAB path.  
+2. The repository provides script files for running the simulation and obtaining test results. Simply executing these scripts will generate the simulation results.  
+3. If you only want to run specific program files, we have also segmented these commands in the execution scripts for your convenience.
+
 ## Types of Files in the Repository
 - .m file: The initialization files required to run the simulation, as well as the script files for processing the simulation results.
 - .slx file: The simulation programs
