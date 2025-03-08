@@ -34,9 +34,9 @@ MATLAB R2024a
 3. Data processing files
 - data_LoadSimVariables: Load simulation output data of 3 methods in Scenario 1
 - data_LoadSimVariables_s2: Load simulation output data of 3 methods in Scenario 2
-- data_PlotResults_AngTracking (Fig.4~6): Plot the overall tracking performance and tracking errors with 3 methods in Scenario 1
-- data_PlotResults_AngTracking_s2 (Fig.9~11): Plot the overall tracking performance and tracking errors with 3 methods in Scenario 2
-- data_PlotResults_SMC_Variables (Fig.7): Plot the discontinuous control gains and adaptive parameters of PAFTC in Scenario 1
-- data_PlotResults_SMC_Variables_s2 (Fig.12): Plot the discontinuous control gains and adaptive parameters of PAFTC in Scenario 2
-- data_PlotResults_Actuators (Fig.8): Plot the control inputs with 3 methods in Scenario 1
-- data_PlotResults_Actuators_s2 : Plot the control inputs with 3 methods in Scenario 1
+- data_PlotResults_AngTracking **(Fig.4~6)**: Plot the overall tracking performance and tracking errors with 3 methods in Scenario 1
+- data_PlotResults_AngTracking_s2 **(Fig.9~11)**: Plot the overall tracking performance and tracking errors with 3 methods in Scenario 2
+- data_PlotResults_SMC_Variables **(Fig.7)**: Plot the discontinuous control gains and adaptive parameters of PAFTC in Scenario 1
+- data_PlotResults_SMC_Variables_s2 **(Fig.12)**: Plot the discontinuous control gains and adaptive parameters of PAFTC in Scenario 2
+- data_PlotResults_Actuators **(Fig.8)**: Plot the control inputs with 3 methods in Scenario 1
+- data_PlotResults_Actuators_s2 **(Fig.13)**: Plot the control inputs with 3 methods in Scenario 1
